@@ -10,7 +10,7 @@ Forget Password: https://github.com/DEVIL22664488/Hotel-Management-System/blob/6
 
 Admin home: https://github.com/DEVIL22664488/Hotel-Management-System/blob/64fdd420bbe8f2a0f5abe8e32c1ac7676bc310cf/adminHome.java
 
-Home:https: //github.com/DEVIL22664488/Hotel-Management-System/blob/64fdd420bbe8f2a0f5abe8e32c1ac7676bc310cf/home.java
+Home:https: http://github.com/DEVIL22664488/Hotel-Management-System/blob/64fdd420bbe8f2a0f5abe8e32c1ac7676bc310cf/home.java
 
 Manage room: https://github.com/DEVIL22664488/Hotel-Management-System/blob/64fdd420bbe8f2a0f5abe8e32c1ac7676bc310cf/manageRoom.java
 
